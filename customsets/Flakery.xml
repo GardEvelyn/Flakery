@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+<sets>
+<set>
+<name>FLK</name>
+<longname>Flakery</longname>
+<settype>Expansion</settype>
+<releasedate>2018-10-28</releasedate>
+</set>
+<set>
+<name>SSY</name>
+<longname>Signature Spellbook: Ysolde</longname>
+<settype>Signature spellbook</settype>
+<releasedate>2018-10-28</releasedate>
+</set>
+</sets>
+<cards>
+
+<card>
+ <name>Captain's Call</name>
+ <set>FLK</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create three 1/1 white Soldier creature tokens.</text>
+</card>
+<card>
+ <name>Flurry Mage</name>
+ <set>FLK</set>
+ <color>U</color>
+ <manacost>3UU</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Flurry Mage enters the battlefield, you may discard up to two cards. If you do, draw that many cards.
+Whenever you discard a card, creatures your opponents control get -1/-0 until end of turn.</text>
+</card>
+<card>
+ <name>Repentia</name>
+ <set>FLK</set>
+ <color>R</color>
+ <manacost>1RR</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Repentia deals damage to each creature equal to the life you’ve lost this turn. (Damage causes loss of life.)</text>
+</card>
+<card>
+ <name>Rimefire Bolt</name>
+ <set picURL="/Rimefire Bolt.full.jpg">FLK</set>
+ <color>UR</color>
+ <manacost>UR</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose one or both —
+• Rimefire Bolt deals 2 damage to target creature.
+• Tap target creature. It doesn't untap during its controller's next untap step.</text>
+</card>
+<card>
+ <name>Serena's Desolation</name>
+ <set picURL="/Serena’s Desolation.full.jpg">FLK</set>
+ <color>WR</color>
+ <manacost>1RRW</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>As an additional cost to cast Serena's Desolation, sacrifice a land.
+Whenever you cast an instant or sorcery spell, Serena's Desolation deals 2 damage to any target and you gain 2 life.</text>
+</card>
+
+<card>
+ <name>Ysolde, Arbiter of Power</name>
+ <set num="1">SSY</set>
+ <color>WB</color>
+ <manacost>1WB</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Planeswalker — Ysolde </type>
+ <loyalty>3</loyalty>
+ <tablerow>1</tablerow>
+ <text>+1: Target creature can't attack or block until the beginning of your next upkeep.
+-X: Exile target creature with converted mana cost X that dealt damage to you or a permanent you control since your last turn ended.
+-8: You get an emblem with &quot;Whenever a permanent deals damage to you, exile it.&quot;</text>
+</card>
+<card>
+ <name>Retaliate</name>
+ <set num="2">SSY</set>
+ <color>W</color>
+ <manacost>2WW</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy all creatures that dealt damage to you this turn.</text>
+</card>
+<card>
+ <name>Stony Silence</name>
+ <set num="3">SSY</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Activated abilities of artifacts can't be activated.</text>
+</card>
+<card>
+ <name>Ambition's Cost</name>
+ <set num="4">SSY</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>You draw three cards and you lose 3 life.</text>
+</card>
+<card>
+ <name>Fatal Push</name>
+ <set num="5">SSY</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target creature if it has converted mana cost 2 or less.
+Revolt — Destroy that creature if it has converted mana cost 4 or less instead if a permanent you controlled left the battlefield this turn.</text>
+</card>
+<card>
+ <name>No Mercy</name>
+ <set num="6">SSY</set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Whenever a creature deals damage to you, destroy it.</text>
+</card>
+<card>
+ <name>Pillory of the Sleepless</name>
+ <set num="7">SSY</set>
+ <color>WB</color>
+ <manacost>1WB</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment — Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature can't attack or block.
+Enchanted creature has &quot;At the beginning of your upkeep, you lose 1 life.&quot;</text>
+</card>
+<card>
+ <name>Vindicate</name>
+ <set num="8">SSY</set>
+ <color>WB</color>
+ <manacost>1WB</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target permanent.</text>
+</card>
+
+</cards>
+</cockatrice_carddatabase>
